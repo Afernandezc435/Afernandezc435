@@ -5,7 +5,7 @@
 :vulcan_salute: I am a FullStack Developer I was trained in a self-taught way. I love creating, working as a team and creating solutions.
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
