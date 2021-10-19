@@ -1,10 +1,10 @@
 ![Ana](https://user-images.githubusercontent.com/77282196/129428255-8286db9a-ee06-49e9-96aa-87a99ed43512.png)
 
 Hey Welcome👋🏻, I am Ana and here you can find software solutions (open source) that I have created according to my experience
-using JavaScript, TypeScript, ReactJS, and NodeJS. among many others
+using JavaScript, TypeScript, ReactJS, and NodeJS. 
 
 ## About me 🤔
-- 🌱 I’m currently developing projects in... ReactJS, NodeJs and Typescript
+- 🌱 Currently I am studying... Golang
 
 :earth_americas: Lima - PE - Perú
 ## Tools I use
