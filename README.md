@@ -1,36 +1,50 @@
 ![Ana](https://user-images.githubusercontent.com/77282196/138700343-978caac0-212b-4673-b1f0-32c60a850dfc.png)
+### Hi 👋 I'm Ana.
 
-Hey Welcome👋🏻, I am Ana and here you can find software solutions (open source) that I have created according to my experience
-using JavaScript, TypeScript, ReactJS, and NodeJS. 
+- 💻 I'm currently working on web applications.
+- 🧩 I find developing software components using new technologies both exciting and challenging.
+- 🔑 I believe the key to building a good system is strategy, research, architecture, and determination.
 
-## About me 🤔
-- 🌱 Currently I am studying... Golang
+## Skills (many not listed for lacking cool badges)
 
-:earth_americas: Lima - PE - Perú
-## Tools I use
+### Languages
+<table>
+  <tr>
+        <td><img alt="TypeScript" align="left" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    <td><img alt="JavaScript" align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
+  </tr>
+</table>
 
+### Frontend 
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<table>
+  <tr>
+        <td><img alt="React" align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
+    <td><img alt="Redux" align="left" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" /></td>
+    <td><img alt="Material-UI" align="left" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" /></td>
+  </tr>
+ </table>
+
+### Backend
+
+<table>
+  <tr>
+    <td><img alt="Postgresql" align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+    <td><img alt="MongoDB" align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+    <td><img alt="Node.js" align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td><img alt="Express.js" align="left" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></td>
+  </tr>
+<table />
+
+### Source Control
   
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361DAFB"/>
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
- 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Socketio" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=Express&logoColor=%2361DAFB"/>
-  
+<table>
+  <tr>
+    <td><img alt="Git" align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></td>
+  </tr>
+</table>
 
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-6a4fa0?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-eb7039?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Eslint" src="https://img.shields.io/badge/-ESLint-595fba?style=flat-square&logo=eslint&logoColor=white" />
- 
-  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-338791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
- </p> 
+
  
  ### 📫 How to reach me
  
